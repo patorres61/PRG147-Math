@@ -1,0 +1,53 @@
+/* Background style code */
+
+body {
+    background: #4f7474;
+}
+
+
+/* Container style code */
+
+.container {
+    max-width: 1060px;
+    margin: 10px auto;
+    background: #559098;
+    padding: 15px;
+    color: #ffffff;
+    font-size: 1.75em;
+    font-weight: 600;
+    font-family: 'Exo 2';
+}
+
+
+/* Heading and paragraph style code */
+
+h1 {
+    Font-size: 2em;
+    font-weight: 800;
+    text-align: center;
+}
+
+h2,
+h3 {
+    text-align: center;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1.2em;
+    font-family: 'Philosopher';
+}
+
+
+/* Footer style code */
+
+.footerinfo {
+    font-size: 1.2em;
+    font-weight: 700;
+    max-width: 1060px;
+    min-height: 5px;
+    margin: 10px auto;
+    padding: 3px;
+    text-align: center;
+    font-family: 'Philosopher';
+    background-color: #559098;
+    color: #ffffff;
+}
